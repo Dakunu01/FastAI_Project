@@ -1,1 +1,27 @@
-Lesson 1: Deep Learning 2019 - Image classification   ----  01:12:4612:14 06.02.2020
+Lesson 1: Deep Learning 2019 - Image classification   ----  fertig 05.03.2020
+
+https://colab.research.google.com/github/fastai/course-v3/blob/master/nbs/dl1/lesson1-pets.ipynb
+
+
+
+Lesson 2: Data cleaning and production; SGD from scratch   ----  00:00:00 05.03.2020
+
+https://colab.research.google.com/github/fastai/course-v3/blob/master/nbs/dl1/lesson2-download.ipynb#scrollTo=r39oWcNx3rRF
+
+
+
+
+Database:
+
+- Anime girl angry
+https://www.google.com/search?q=anime+girl+angry&tbm=isch&ved=2ahUKEwjS7dCvi4PoAhUZ-xoKHZ4EBdIQ2-cCegQIABAA&oq=anime+girl+angry&gs_l=img.3..0l4j0i30l6.1445040.1446921..1447060...0.0..0.114.682.3j4......0....1..gws-wiz-img.......0i67.8ggyGKyvV4Y&ei=e89gXpLENpn2a56JlJAN&bih=852&biw=1745&safe=strict
+
+- Anime girl happy 
+https://www.google.com/search?q=anime+girl+happy&tbm=isch&ved=2ahUKEwiT5LbejIPoAhUa-hoKHYOxARMQ2-cCegQIABAA&oq=anime+girl+happy&gs_l=img.3..0l4j0i30l6.1090788.1093045..1093169...0.0..0.103.915.9j1......0....1..gws-wiz-img.......35i39j0i67.saqABIgb3Mo&ei=6tBgXpPHHJr0a4PjhpgB&bih=852&biw=1730&safe=strict&hl=de
+
+- Anime girl emotionless
+https://www.google.at/search?q=anime+girl+emotionless&safe=strict&sxsrf=ALeKk00_MgS2fesgeIRcPnoeA_iaIbSgbA:1583404437047&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjz2YWYkYPoAhXxQkEAHeomCbcQ_AUoAXoECAwQAw&biw=1745&bih=852
+
+- Anime girl scared
+https://www.google.com/search?safe=strict&tbm=isch&sxsrf=ALeKk00Ndws-hw7Z5lwNEoCqJhEGz-hcuQ%3A1583404410968&source=hp&biw=1920&bih=937&ei=etVgXpqMOdSEk74P6ZCg8AY&q=anime+girl+in+love&oq=anime+girl+in+love&gs_l=img.3...328.4399..4479...0.0..0.414.4912.4j2j0j9j2......0....1..gws-wiz-img.......0j0i131j35i39j0i30.0M4YPBrwq4M&ved=0ahUKEwiascyLkYPoAhVUwsQBHWkICG4Q4dUDCAY&uact=5
+https://www.google.at/search?q=anime+girl+lovely&tbm=isch&ved=2ahUKEwj80cqDkYPoAhX5wAIHHQBuBzYQ2-cCegQIABAA&oq=anime+girl+lovely&gs_l=img.3...2980.4726..4832...0.0..0.102.526.5j1......0....1..gws-wiz-img.......0j0i30.YfOzuzBlYGc&ei=atVgXvz0B_mBi-gPgNydsAM&bih=852&biw=1745&safe=strict
